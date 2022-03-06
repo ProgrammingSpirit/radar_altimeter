@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radar_altimeter/static/css/main.f6fbf70f.css",
+    "main.js": "/radar_altimeter/static/js/main.785901b2.js",
+    "static/media/radaltback.png": "/radar_altimeter/static/media/radaltback.c317689416674bf48cb2.png",
+    "static/media/radaltcover.png": "/radar_altimeter/static/media/radaltcover.6d39d1d0ecd8e4163544.png",
+    "index.html": "/radar_altimeter/index.html",
+    "main.f6fbf70f.css.map": "/radar_altimeter/static/css/main.f6fbf70f.css.map",
+    "main.785901b2.js.map": "/radar_altimeter/static/js/main.785901b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6fbf70f.css",
+    "static/js/main.785901b2.js"
+  ]
+}
